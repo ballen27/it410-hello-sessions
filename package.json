@@ -1,0 +1,33 @@
+{
+  "name": "it410-hello-sessions",
+  "version": "1.0.0",
+  "description": "it410 hello sessions",
+  "main": "index.js",
+
+  "dependencies": {
+    "body-parser": "^1.17.1",
+    "cookie-parser": "^1.4.3",
+    "express": "^4.15.2",
+    "express-session": "^1.15.1",
+    "mongoose": "^4.9.2",
+    "passport": "^0.3.2",
+    "passport-local": "^1.0.0",
+    "passport-local-mongoose": "^4.0.0"
+  },
+
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ballen27/it410-hello-sessions.git"
+  },
+
+  "author": "Bronson Allen",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ballen27/it410-hello-sessions/issues"
+  },
+  "homepage": "https://github.com/ballen27"
+}
